@@ -1,0 +1,13 @@
+added manifest
+adding: Server.class(in = 2562) (out= 1383)(deflated 46%)
+adding: ServerWindow.class(in = 3101) (out= 1722)(deflated 44%)
+adding: ServerWindow$1.class(in = 993) (out= 619)(deflated 37%)
+adding: ServerWindow$2.class(in = 992) (out= 621)(deflated 37%)
+adding: ServerWindow$3.class(in = 2056) (out= 1134)(deflated 44%)
+adding: ServerWindow$4.class(in = 1221) (out= 749)(deflated 38%)
+adding: ServerWindow$5.class(in = 603) (out= 424)(deflated 29%)
+adding: Worked.class(in = 3004) (out= 1686)(deflated 43%)
+adding: Config.class(in = 673) (out= 432)(deflated 35%)
+adding: images/tm-client.png(in = 12512) (out= 12310)(deflated 1%)
+adding: images/tm-server.png(in = 12780) (out= 12524)(deflated 2%)
+adding: images/tm.png(in = 20294) (out= 17210)(deflated 15%)
